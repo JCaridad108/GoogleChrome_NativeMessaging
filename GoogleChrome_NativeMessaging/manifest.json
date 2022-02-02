@@ -1,9 +1,0 @@
-{
-	"name": "python.native.messaging.extension",
-	"version": "1.0",
-	"description": "open with python",
-	"background": { "scripts": ["background.js"] }, 
-	"manifest_version": 2,
-	"permissions": ["nativeMessaging", "tabs", "<all_urls>", "activeTab"],
-  	"browser_action": {}
-}

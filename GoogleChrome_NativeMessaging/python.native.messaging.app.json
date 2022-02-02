@@ -1,9 +1,0 @@
-{
-  "name": "python.native.messaging.app",
-  "description": "Communicate with Chrome",
-  "path": "/Applications/Chrome_NativeMessaging.py",
-  "type": "stdio",
-  "allowed_origins": [
-    "chrome-extension://nigljebdfpkkdfmkccnjldapfofgkiin/"
-  ]
-}
