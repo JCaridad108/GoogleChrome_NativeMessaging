@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# This script moves files to their required directories
+
+# Moving Native Program to /Applications directory
+mv BrowserExtension/Chrome_NativeMessaging.py /Applications
+echo "Moved Native Program to /Applications"
+
+mv python.native.messaging.app.json Library/Application\ Support/Google/Chrome/NativeMessagingHosts/
+echo "Moved Native Messaging Host to Library/Application\ Support/Google/Chrome/NativeMessagingHosts/"
+
